@@ -34,7 +34,7 @@ const reptiles = [
   },
   {
     id: 6,
-    name: "liopleurodon",
+    name: "Liopleurodon",
     period: "Middle to Late Jurassic",
     image: "/images/liopleurodon.jpg",
   },
